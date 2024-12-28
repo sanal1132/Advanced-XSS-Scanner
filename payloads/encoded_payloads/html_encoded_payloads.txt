@@ -1,0 +1,2 @@
+&lt;script&gt;alert(&#x27;XSS&#x27;)&lt;/script&gt;
+&lt;img src=x onerror=alert(1)&gt;
